@@ -17,7 +17,7 @@
 
 
 
-
+// Esta clase implementa la operación Resta
 public class Resta
 {
    public static int Restar(int a, int b)
