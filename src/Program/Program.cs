@@ -8,3 +8,30 @@
         Console.WriteLine(Division.Dividir(7, 8));
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public class Multiplicacion
+{
+   public static int Multiplicar(int a, int b)
+   {
+       return a * b;
+   }
+}
