@@ -10,18 +10,20 @@
 }
 
 
-
-
-
-
-
-
-
 // Esta clase implementa la operación Resta
 public class Resta
 {
    public static int Restar(int a, int b)
    {
        return a - b;
+   }
+}
+
+// Esta clase implementa la operación "suma"
+public class Addition
+{
+   public static int Add(int a, int b)
+   {
+       return a + b;
    }
 }
