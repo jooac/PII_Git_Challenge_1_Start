@@ -22,6 +22,6 @@ public class Resta
 {
    public static int Restar(int a, int b)
    {
-       return a - b;
+       return a - b = 0
    }
 }
