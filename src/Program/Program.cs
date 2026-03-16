@@ -32,6 +32,6 @@ public class Multiplicacion
 {
    public static int Multiplicar(int a, int b)
    {
-       return 0;
+       return a * b;
    }
 }
