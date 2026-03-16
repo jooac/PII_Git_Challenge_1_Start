@@ -14,6 +14,6 @@ public class Division
 {
    public static double Divide(int a, int b)
    {
-       return 0; // Cambio incorrecto
+       return (double)a / b;
    }
 }
